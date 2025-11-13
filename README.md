@@ -1,1 +1,1 @@
-# study_buddy
+#CSM Hackathon 2023
